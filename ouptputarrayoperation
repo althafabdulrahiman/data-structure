@@ -1,0 +1,34 @@
+mits@mits-Lenovo-S510:~/Desktop/s1mca/ds set1$ gcc arrayoperations.c
+mits@mits-Lenovo-S510:~/Desktop/s1mca/ds set1$ ./a.out
+enter the n:5
+
+enter the elements:2 8 6 4 5
+
+1.insertion
+2.deletion
+3.traversal
+ enter your choice:1
+
+enter the position to be insert:2
+
+enter the new element:10
+
+elements of array:2	10	6	4	4	5	
+1.insertion
+2.deletion
+3.traversal
+ enter your choice:2
+
+enter the position to be deleted:4
+
+array after deletion:2	10	6	4	5	
+1.insertion
+2.deletion
+3.traversal
+ enter your choice:3
+2
+10
+6
+4
+5
+

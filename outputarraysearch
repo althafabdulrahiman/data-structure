@@ -1,0 +1,21 @@
+mits@mits-Lenovo-S510:~/Desktop/s1mca/ds set1$ gcc arraysearch.c
+mits@mits-Lenovo-S510:~/Desktop/s1mca/ds set1$ ./a.out
+
+enter the limit:6
+
+ enter the elemnts:2 8 4 5 6 3
+
+1.linear search
+ 2.binary search
+ enter your choise:1
+enter the elemnt to be search:4
+4 found and position=2
+1.linear search
+ 2.binary search
+ enter your choise:2
+
+ array after sorting:	 2	 3	 4	 5	 6	 8
+enter the elemt to be search:8
+8 found and at position=5mits@mits-Lenovo-S510:~/Desktop/s1mca/ds set1$ 
+
+
